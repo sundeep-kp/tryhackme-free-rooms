@@ -58,6 +58,11 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Intro Rooms
 
+- [ ] [TryHackMe | Microservices Architectures](https://tryhackme.com/room/microservicearchitectures)
+- [ ] [TryHackMe | Jupyter 101](https://tryhackme.com/room/jupyter101)
+- [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
+- [ ] [TryHackMe | Introduction to Flask](https://tryhackme.com/room/flask)
+- [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
 - [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
@@ -265,6 +270,18 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Android Hacking 101](https://tryhackme.com/room/androidhacking101)
 
 ## Forensics
+
+- [ ] [TryHackMe | DFIR: An Introduction](https://tryhackme.com/room/introductoryroomdfirmodule)
+- [ ] [TryHackMe | Critical](https://tryhackme.com/room/critical)
+- [ ] [TryHackMe | Windows Incident Surface](https://tryhackme.com/room/winincidentsurface)
+- [ ] [TryHackMe | Introduction To Honeypots](https://tryhackme.com/room/introductiontohoneypots)
+- [ ] [TryHackMe | Geolocating Images](https://tryhackme.com/room/geolocatingimages)
+- [ ] [TryHackMe | Compromised Windows Analysis](https://tryhackme.com/room/compromisedwindowsanalysis)
+- [ ] [TryHackMe | AppSec IR](https://tryhackme.com/room/appsecir)
+- [ ] [TryHackMe | IR Playbooks](https://tryhackme.com/room/irplaybooks)
+- [ ] [TryHackMe | Intro to Endpoint Security](https://tryhackme.com/room/introtoendpointsecurity)
+- [ ] [TryHackMe | IR Timeline Analysis](https://tryhackme.com/room/dfirtimelineanalysis)
+- [ ] [TryHackMe | macOS Forensics: Artefacts](https://tryhackme.com/room/macosforensicsartefacts)
 - [ ] [TryHackme | Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8)
 - [ ] [TryHackme | Phishing - Phishmas Greetings](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0)
 - [ ] [TryHackme | YARA Rules - YARA mean one!](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7)
@@ -323,7 +340,20 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Malware Analysis
 
-- [ ] [TryHackme | C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1)
+- [ ] [TryHackMe | Android Malware Analysis ](https://tryhackme.com/room/androidmalwareanalysis)
+- [ ] [TryHackMe | ret2libc](https://tryhackme.com/room/ret2libc)
+- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- [ ] [TryHackMe | Snyk Code](https://tryhackme.com/room/snykcode)
+- [ ] [TryHackMe | Attacking ICS Plant #1](https://tryhackme.com/room/attackingics1)
+- [ ] [TryHackMe | Linux Function Hooking](https://tryhackme.com/room/linuxfunctionhooking)
+- [ ] [TryHackMe | Linux Process Analysis](https://tryhackme.com/room/linuxprocessanalysis)
+- [ ] [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
+- [ ] [TryHackMe | Hosted Hypervisors ](https://tryhackme.com/room/hostedhypervisors)
+- [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
+- [ ] [TryHackMe | AttackerKB](https://tryhackme.com/room/attackerkb)
+- [ ] [TryHackMe | Hip Flask](https://tryhackme.com/room/hipflask)
+- [ ] [TryHackMe | Outlook NTLM Leak](https://tryhackme.com/room/outlookntlmleak)
+- [ ] [TryHackMe | Hacking Hadoop](https://tryhackme.com/room/hackinghadoop)
 - [ ] [TryHackme | Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt)
 - [ ] [TryHackme | SOC Alert Triaging - Tinsel Triage](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2)
 - [ ] [TryHackme | Obfuscation - The Egg Shell File](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9)
@@ -381,6 +411,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Active Directory
 
+- [ ] [TryHackMe | AD Certificate Templates](https://tryhackme.com/room/adcertificatetemplates)
 - [ ] [TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
 - [ ] [TryHackMe | AD: Basic Enumeration](https://tryhackme.com/room/adbasicenumeration)
 - [ ] [TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
@@ -405,6 +436,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Intro To Pwntools](https://tryhackme.com/room/introtopwntools)
 
 ## Easy CTF
+
+- [ ] [TryHackMe | Toolbox: Vim](https://tryhackme.com/room/toolboxvim)- [ ] [TryHackMe | DFIR: An Introduction](https://tryhackme.com/room/introductoryroomdfirmodule)
 
 - [ ] [TryHackMe | The Phishing Pond](https://tryhackme.com/room/phishingpond)
 - [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
@@ -511,6 +544,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Medium CTF
 
+- [ ] [TryHackMe | APIWizards Breach](https://tryhackme.com/room/apiwizardsbreach)
+- [ ] [TryHackMe | TryHack3M: Sch3Ma D3Mon](https://tryhackme.com/room/sch3mad3mon)
+- [ ] [TryHackMe | Crylo](https://tryhackme.com/room/crylo4a)
 - [ ] [TryHackMe | Industrial Intrusion](https://tryhackme.com/room/industrial-intrusion)
 - [ ] [TryHackMe | Volt Typhoon](https://tryhackme.com/room/volttyphoon)
 - [ ] [TryHackMe | Logless Hunt](https://tryhackme.com/room/loglesshunt)
@@ -677,6 +713,18 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Misc
 
+- [ ] [TryHackMe | Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927)
+- [ ] [TryHackMe | Spring4Shell: CVE-2022-22965](https://tryhackme.com/room/spring4shell)
+- [ ] [TryHackMe | PrintNightmare](https://tryhackme.com/room/printnightmarehpzqlp8)
+- [ ] [TryHackMe | GitLab CVE-2023-7028](https://tryhackme.com/room/gitlabcve20237028)
+- [ ] [TryHackMe | CVE-2023-38408](https://tryhackme.com/room/cve202338408)
+- [ ] [TryHackMe | Joomify: CVE-2023-23752](https://tryhackme.com/room/joomify)
+- [ ] [TryHackMe | OverlayFS - CVE-2021-3493](https://tryhackme.com/room/overlayfs)
+- [ ] [TryHackMe | Intrusion Detection ](https://tryhackme.com/room/idsevasion)
+- [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
+- [ ] [TryHackMe | Insekube](https://tryhackme.com/room/insekube)
+- [ ] [TryHackMe | Solar, exploiting log4j](https://tryhackme.com/room/solar)
+- [ ] [TryHackMe | CVE-2022-26923](https://tryhackme.com/room/cve202226923)
 - [ ] [TryHackme | ICS/Modbus - Claus for Concern](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4)
 - [ ] [TryHackme | Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123)
 - [ ] [TryHackMe | Django: CVE-2025-64459](https://tryhackme.com/room/djangocve202564459)
